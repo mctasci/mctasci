@@ -29,6 +29,6 @@ I believe in a data-driven approach to problem-solving. Whether it's detecting f
 The field of BI is constantly evolving, and so am I. I'm always exploring new tools, techniques, and methodologies to stay at the cutting edge of data analytics. Currently, I'm diving deeper into advanced machine learning techniques and cloud-based BI solutions.
 
 📫 Let's Connect
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/can-tasci-mba-93b820a8/)
+LinkedIn: (https://www.linkedin.com/in/can-tasci-mba-93b820a8/)
 Email: tascimc@gmail.com
 
