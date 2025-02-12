@@ -30,5 +30,5 @@ The field of BI is constantly evolving, and so am I. I'm always exploring new to
 
 📫 Let's Connect
 LinkedIn: (https://www.linkedin.com/in/can-tasci-mba-93b820a8/)
-Email: tascimc@gmail.com
+Email: tascimct@gmail.com
 
